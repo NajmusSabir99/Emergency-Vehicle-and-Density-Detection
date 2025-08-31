@@ -7,7 +7,7 @@ The dataset includes emergency vehicles such as ambulance, fire truck, along wit
 
 📊 Dataset Details
 
-Total Images: 361 (fill in exact number)
+Total Images: 361
 
 Classes:
 Ambulance
